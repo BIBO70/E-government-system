@@ -1,0 +1,10 @@
+Currency        Buy         Sell
+US Dollar       50.7946     50.8943
+Euro            53.3089     53.4186
+Pound Sterling  64.6412     64.7884
+Swiss Franc     57.2333     57.3521
+Japanese Yen    33.3473     33.4237
+SAR             13.5189     13.5490
+Kuwaiti Dinar   164.9442    165.5906
+UAE Dirham      13.8284     13.8567
+Chinese Yuan    6.9883      7.0035

@@ -1,0 +1,6 @@
+Tourist Place	Location
+Eiffel Tower	Paris, France
+Great Wall of China	Beijing, China
+Machu Picchu	Cusco Region, Peru
+Colosseum	Rome, Italy
+Taj Mahal	Agra, India

@@ -1,0 +1,6 @@
+Train No.	Departure Station	Arrival Station	Departure Time	Arrival Time	Frequency
+101	Central Station	Green Valley	08:00 AM	10:30 AM	Daily
+202	Blue Harbor	Sunset City	09:15 AM	12:45 PM	Weekdays Only
+303	Red Ridge	Golden Plains	11:00 AM	02:00 PM	Weekend Only
+404	Silver Town	Crystal Bay	03:30 PM	06:45 PM	Daily
+505	Mountain View	River Cross	07:00 PM	09:15 PM	Fridays Only

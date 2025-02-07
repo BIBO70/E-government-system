@@ -1,0 +1,6 @@
+Train No.   Departure Time   Arrival Time   Source       Destination
+101         06:00 AM         09:00 AM       Cairo        Alexandria
+102         08:00 AM         11:00 AM       Alexandria   Aswan
+103         10:00 AM         01:00 PM       Port-Said    Marsa-Alam
+104         12:00 PM         05:00 PM       Cairo        Sharm-El-Sheikh
+105         02:00 PM         07:00 PM       Alexandria   Mars Matrooh

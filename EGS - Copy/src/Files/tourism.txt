@@ -1,0 +1,6 @@
+Tourist Place	            --Location  --Open from --Closes
+Pyramids	                --Giza      --9:00 Am   --6:00 pm
+Grand Egyptian museum       --Cairo     --9:00 Am   --9:00 pm
+Saladin Citadel             --Cairo     --10:00 Am  --5:00 pm
+Valley of kings             --Luxor     --9:00 Am   --8:00 pm
+Alexadria Library           --Alexandria--9:00 Am   --4:00 pm
